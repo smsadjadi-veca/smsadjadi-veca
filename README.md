@@ -1,4 +1,4 @@
-## Hi there, this is Mostafa 👋
+## Hi everyone 👋
 
 - 🔭 This is a company account with private content.
 
