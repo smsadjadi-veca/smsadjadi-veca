@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+This is a company account with private content.
+Find me on my academic account at [smsadjadi](https://github.com/smsadjadi)
 <!--
 **smsadjadi-veca/smsadjadi-veca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
