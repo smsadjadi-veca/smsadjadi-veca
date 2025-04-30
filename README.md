@@ -1,7 +1,6 @@
 ## Hi everyone 👋
 
 - 🔭 This is a company account with private content.
-
 - 📫 Find me on my academic account at [smsadjadi](https://github.com/smsadjadi)
 
 <!--
