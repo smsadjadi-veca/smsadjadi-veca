@@ -1,20 +1,18 @@
-<p align="left">
-  <a href="https://github.com/smsadjadi-veca">
-    <img src="https://github.com/smsadjadi-veca.png" width="100" height="100" alt="Profile Picture">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
-    <strong><font size="5">smsadjadi</font></strong>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
-    <font size="4">Seyyed Mostafa Sadjadi</font>
-  </a>
-</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <a href="https://github.com/smsadjadi-veca">
+        <img src="https://github.com/smsadjadi-veca.png" alt="Profile Picture" width="100" height="100">
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 15px;">
+      <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
+        <strong><font size="5">smsadjadi</font></strong><br>
+        <font size="4">Seyyed Mostafa Sadjadi</font>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
