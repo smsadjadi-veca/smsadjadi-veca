@@ -1,14 +1,21 @@
 <p align="left">
-  <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
-    <img src="https://github.com/smsadjadi-veca.png" alt="Profile Picture" width="100" height="100" style="vertical-align: middle">
+  <a href="https://github.com/smsadjadi-veca">
+    <img src="https://github.com/smsadjadi-veca.png" width="100" height="100" alt="Profile Picture">
   </a>
-  <span style="display: inline-block; vertical-align: middle; margin-left: 20px;">
-    <a href="https://github.com/smsadjadi-veca" style="text-decoration: none; color: inherit;">
-      <strong><font size="5">smsadjadi</font></strong><br>
-      <font size="4">Seyyed Mostafa Sadjadi</font>
-    </a>
-  </span>
 </p>
+
+<p align="left">
+  <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
+    <strong><font size="5">smsadjadi</font></strong>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
+    <font size="4">Seyyed Mostafa Sadjadi</font>
+  </a>
+</p>
+
 
 
 ## Hi everyone 👋
