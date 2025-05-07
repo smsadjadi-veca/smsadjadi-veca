@@ -2,7 +2,7 @@
   <tr>
     <td>
       <a href="https://github.com/smsadjadi-veca">
-        <img src="https://github.com/smsadjadi-veca.png" alt="Profile Picture" width="100" height="100">
+        <img src="https://github.com/smsadjadi-veca.png" alt="Profile Picture" width="80" height="80">
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
@@ -13,21 +13,6 @@
     </td>
   </tr>
 </table>
-
-##
-
-<p align="left">
-  <a href="https://github.com/smsadjadi-veca">
-    <img src="https://github.com/smsadjadi-veca.png" width="100" height="100" alt="Profile Picture" style="vertical-align: middle;">
-  </a>
-  <a href="https://github.com/smsadjadi-veca" style="text-decoration: none; vertical-align: middle; margin-left: 20px;">
-    <strong><font size="5">smsadjadi</font></strong><br>
-    <font size="4">Seyyed Mostafa Sadjadi</font>
-  </a>
-</p>
-
-
-
 
 ## Hi everyone 👋
 
