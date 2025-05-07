@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://github.com/smsadjadi-veca">
-    <img src="3d314bd6-4a70-41c1-838f-7db1143301e8.png" width="100" height="100" alt="Profile Picture" style="vertical-align: middle;">
+    <img src="https://github.com/smsadjadi-veca.png" width="100" height="100" alt="Profile Picture" style="vertical-align: middle;">
   </a>
   <a href="https://github.com/smsadjadi-veca" style="text-decoration: none; vertical-align: middle; margin-left: 20px;">
     <strong><font size="5">smsadjadi</font></strong><br>
