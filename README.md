@@ -1,19 +1,3 @@
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <a href="https://github.com/smsadjadi-veca">
-        <img src="https://github.com/smsadjadi-veca.png" alt="Profile Picture" width="80" height="80">
-      </a>
-    </td>
-    <td style="vertical-align: middle; padding-left: 15px;">
-      <a href="https://github.com/smsadjadi-veca" style="text-decoration: none;">
-        <strong><font size="5">smsadjadi</font></strong><br>
-        <font size="4">Seyyed Mostafa Sadjadi</font>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## Hi everyone 👋
 
 - 🔭 This is a company account with private content.
